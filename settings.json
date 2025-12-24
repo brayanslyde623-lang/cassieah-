@@ -12,7 +12,7 @@
   "GRADIENT_THEME": "retro",
   "knownURL": "https://cassidyredux.onrender.com",
   "noFB": false,
-  "PREFIX": "°",
+  "PREFIX": "™",
   "NICKNAME": "🩵Cassidy Bot🩵",
   "CUSTOM_STYLE": {
     "enabled": false,
@@ -20,8 +20,8 @@
     "TITLE_PATTERN": "{emojis}【 {word} 】{emojis}"
   },
   "LOGO": "",
-  "ADMINBOT": ["100088850810623", "YOUR_UID"],
-  "EXTRAPREFIX": ["_"],
+  "ADMINBOT": ["100088850810623", "61584246495211"],
+  "EXTRAPREFIX": ["∆"],
   "MODERATORBOT": [],
   "exitOnError": false,
   "WEB_PASSWORD": "wsshiagwvkljijxxsvddidbdib+_*77s",
